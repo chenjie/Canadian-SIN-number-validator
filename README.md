@@ -9,7 +9,7 @@ This program validates the Canadian Social Insurance Number using the Luhn algor
 * UNIX Shell OR Windows PowerShell
 
 ### Download source code and compile
-The following instructions are presented using Terminal in macOS:
+The following instructions are presented using Bash in macOS:
 ```
 # Change to HOME directory
 $ cd ~
